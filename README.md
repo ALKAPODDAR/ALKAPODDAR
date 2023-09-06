@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ALKAPODDAR
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+- 👀 I'm working to be a full stack web developer
+- 🌱I’m interested in problem solving & AI
 - 💞️ I’m looking to collaborate on with GDSC
 - 📫 How to reach me - alkapoddar1218@gmail.com
 
