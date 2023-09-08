@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ALKAPODDAR
+- 👋 Hi, I’m @alka poddar
 - 👀 I'm working to be a full stack web developer
 - 🌱I’m interested in problem solving & AI
 - 💞️ I’m looking to collaborate on with 
